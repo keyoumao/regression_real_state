@@ -12,3 +12,5 @@ train R2: 0.511
 test RMSE: 2.11e+5
 test R2: 0.481
 
+
+If you want to know more details or request for the project info, contact me through LinkedIN or email.
